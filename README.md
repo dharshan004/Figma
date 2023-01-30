@@ -158,6 +158,16 @@ line-height: 27px;
 text-align: center;
 color: #FFFFFF;
 
+
+
+
+
+
+
+
+
+
+
 /* CSE */
 
 position: absolute;
@@ -175,10 +185,18 @@ text-align: center;
 color: #FFFFFF;
 
 ```
+
+
+
+
+
 ## OUTPUT:
 ![OUTPUT1](./pg1.png)
+
 ![OUTPUT2](./pg2.png)
+
 ![OUTPUT3](./pg3.png)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
